@@ -4,7 +4,7 @@ I'm Azam Shaikh, a laravel backend Developer, and Passionate to become a Full St
 
 ## Project Name : **Paytm UI Clone**
 
-In this project i have created a clone of **Paytm** website using **HTML** and **tailwindcss** . In this project i learnt a lot of tailwindcss property to make this project respnsive without writing core css.
+In this project i have created a clone of **Paytm** website using **HTML** and **tailwindcss** . In this project i learnt a lot of tailwindcss property to make this project responsive without writing css.
 
 </br>
 
